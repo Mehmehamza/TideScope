@@ -55,6 +55,8 @@
 
 ### StarMap 星图视图
 *以 [SurfSense](https://github.com/MODSetter/SurfSense) 项目为例*
+<img width="1332" height="1164" alt="QQ_1763474452961" src="https://github.com/user-attachments/assets/3f7ce0f1-8923-4688-a412-fde1a6a9a338" />
+<img width="2416" height="807" alt="QQ_1763474637137" src="https://github.com/user-attachments/assets/ec5de69a-19c2-4cc1-8c73-de766dbf9050" />
 
 **星图特点：**
 - 🎯 重要任务位于中心圈，越向外优先级越低
