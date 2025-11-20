@@ -2,16 +2,17 @@
 
 
 <div align="center">
-  <img src="web/public/logo-option-1.svg" alt="TideScope Logo" width="400"/>
-  
-  <h1>TideScope</h1>
+  <img src="web/public/logo-option-1.svg" alt="TideScope Logo" width="560"/>
   
   <p><strong>Make Technical Debt Visible, Make Open Source Collaboration Easier</strong></p>
   
   <p>
-    <a href="README_CN.md">中文文档</a> •
-    <a href="#quick-start">Quick Start</a> •
-    <a href="#tech-stack">Tech Stack</a> •
+    <a href="README_CN.md">中文文档</a>
+    &nbsp;|&nbsp;
+    <a href="#quick-start">Quick Start</a>
+    &nbsp;|&nbsp;
+    <a href="#tech-stack">Tech Stack</a>
+    &nbsp;|&nbsp;
     <a href="#contributing">Contributing</a>
   </p>
 </div>

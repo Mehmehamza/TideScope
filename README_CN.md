@@ -1,14 +1,15 @@
 <div align="center">
-  <img src="web/public/logo-option-1.svg" alt="TideScope Logo" width="400"/>
-  
-  <h1>TideScope</h1>
+  <img src="web/public/logo-option-1.svg" alt="TideScope Logo" width="560"/>
   
   <p><strong>让技术债务可视化，让开源协作更简单</strong></p>
   
   <p>
-    <a href="README.md">English</a> •
-    <a href="#快速开始">快速开始</a> •
-    <a href="#技术栈">技术栈</a> •
+    <a href="README.md">English</a>
+    &nbsp;|&nbsp;
+    <a href="#快速开始">快速开始</a>
+    &nbsp;|&nbsp;
+    <a href="#技术栈">技术栈</a>
+    &nbsp;|&nbsp;
     <a href="#贡献指南">贡献</a>
   </p>
 </div>
