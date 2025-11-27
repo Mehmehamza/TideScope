@@ -688,7 +688,7 @@ TideScope-main/
 
 ## 📄 开源协议
 
-[待添加 - 建议使用 MIT 或 Apache 2.0]
+本项目采用 [MIT 协议](LICENSE) 开源。
 
 ---
 

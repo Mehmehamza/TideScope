@@ -689,9 +689,9 @@ TideScope-main/
 
 ---
 
-## � License
+## 📄 License
 
-[To be added - Suggest MIT or Apache 2.0]
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
