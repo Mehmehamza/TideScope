@@ -89,6 +89,9 @@ TideScope provides **two core systems** to meet different needs:
 
 **Core Value:** Lower the barrier to open source contribution, help beginners quickly find suitable tasks
 
+![IMG_20251127_150637](https://github.com/user-attachments/assets/0e2d4e32-ebab-4126-aadb-08cd30a82f87)
+
+
 #### 🎯 System Features
 
 - **📊 Project Health Dashboard**
